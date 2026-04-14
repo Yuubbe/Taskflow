@@ -2,7 +2,7 @@
 
 > API REST de gestion de projets et de tâches — Django 5 · DRF · PostgreSQL · Docker
 
-[![CI](https://github.com/your-username/taskflow/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/taskflow/actions)
+[![CI](https://github.com/yuubbe/taskflow/actions/workflows/ci.yml/badge.svg)](https://github.com/yuubbe/taskflow/actions)
 
 ---
 
