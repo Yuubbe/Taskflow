@@ -191,7 +191,7 @@ User ──< ProjectMembership >── Project
 
 ## Choix d'architecture notables
 
-- **Custom User model** (`AbstractUser` + email comme identifiant) : bonne pratique Django, impossible à changer après coup.
+- **Custom User model** (`AbstractUser` + email comme identifiant) 
 - **Serializers typés** : `ModelSerializer[Model]` avec mypy + django-stubs pour détecter les erreurs à la compilation.
 - **Permissions granulaires** : `IsProjectMember` / `IsProjectAdmin` réutilisables sur n'importe quelle vue.
 - **Factories** : `factory_boy` pour des données de test expressives et maintenables.
